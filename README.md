@@ -1,6 +1,8 @@
 # Group-shop
 Beetroot Academy - Lesson 04 (Group Project)
 
+Live Page URL: https://mirinkakotze.github.io/Group-shop/
+
 In your group create a shopping web page using HTML and CSS that meets the following criteria:
 
 HEADER:
